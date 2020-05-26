@@ -1,0 +1,18 @@
+------------------------------------USER MANUAL FOR VM TRANSLATOR-----------------------------------
+USAGE:
+
+1) To translate a single VM file.
+
+`java VMTranslator filename.vm`
+
+Enter this command in the command line/terminal.
+
+-----------------------------------------------------------------------------------------------------
+
+2) To translate an entire directory of VM files into a single ASM file.
+
+`java VMTranslator directoryName.vm`
+
+Enter this command in the command line/terminal.
+
+*******************************************THANK YOU************************************************
